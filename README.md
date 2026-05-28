@@ -5,7 +5,7 @@ Welcome to my professional repository. Here, I document data-driven projects, fi
 ## 📂 Featured Projects
 
 ### 📈 1. Facebook Ads Dashboard (Plastic Surgery Clinic)
-* **Project Folder:** Please find the source `.xlsx` file inside the repository files.
+* **Project Folder:** 📁 [Click here to view dashboard files](./Surgi-Marketing-Dashboard)
 * **Tools Used:** Excel, Pivot Tables, Data Visualization, Interactive Slicers
 
 #### 📊 Case Overview
@@ -19,5 +19,7 @@ Welcome to my professional repository. Here, I document data-driven projects, fi
 
 #### 📈 Business Value & Insights
 The dashboard successfully visualizes the direct relationship between ad spend, volume of leads, and cost-per-result. This bridges the gap between marketing execution and financial oversight, enabling stakeholders to make fast, data-driven decisions on scaling budgets effectively.
+
+---
 
 ---
